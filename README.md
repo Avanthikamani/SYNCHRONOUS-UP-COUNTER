@@ -60,15 +60,18 @@ Developed by:Avanthika M RegisterNumber:212224110009
 
 **RTL LOGIC UP COUNTER**
 
-![image](https://github.com/user-attachments/assets/f78931d7-d22d-4562-a414-7cec83d7ef56)
+![Screenshot 2025-05-22 153655](https://github.com/user-attachments/assets/72b6e906-4f86-44ed-ab39-73d4f114818b)
+
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-![Screenshot 2025-05-22 154030](https://github.com/user-attachments/assets/0bc01e90-669f-44f1-8314-2033a24f6021)
+![Screenshot 2025-05-22 154030 - Copy](https://github.com/user-attachments/assets/69db69b6-61ab-4847-b256-1eaff804ad32)
+
 
 **TRUTH TABLE**
 
-![Screenshot 2025-05-22 154030](https://github.com/user-attachments/assets/a495df06-7b5d-4bbe-a659-28f8a856609e)
+![Screenshot 2025-05-22 154043](https://github.com/user-attachments/assets/75555dba-3d02-4e33-998e-5291cd8f4184)
+
 
 **RESULTS**
 
